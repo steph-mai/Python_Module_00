@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 def ft_count_harvest_iterative():
     count = int(input("Days until harvest: "))
     for i in range(1, count + 1):
